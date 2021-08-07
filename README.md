@@ -1,5 +1,7 @@
 ### Hi there 👋
 I am Riktesh Singh. I am currently pursuing B.tech in Electrical Engineering from IIT Kanpur.
+
+- 🌱 I’m currently learning Machine Learning, full stack web development and competitive programming.
 <!--
 **RIKTESH9454/RIKTESH9454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
